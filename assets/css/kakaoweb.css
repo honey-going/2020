@@ -1,7 +1,7 @@
 *{margin: 0;padding: 0}
 .contant{max-width: 1180px;margin: 0 auto}
 .contant img{width: 100%}
-.vod{max-width: 1180px;max-height: 320px;margin: 0 auto}
+.vod{max-width: 1180px;height: auto;margin: 0 auto}
 .vod video{width: 100%;height: auto;border-bottom: 5px solid #f8de01 ;border-top: 5px solid #f8de01}
 
 
